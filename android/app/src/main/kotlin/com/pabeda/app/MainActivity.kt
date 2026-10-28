@@ -1,4 +1,4 @@
-package com.example.pabeda_app
+package com.pabeda.app
 
 import io.flutter.embedding.android.FlutterActivity
 
